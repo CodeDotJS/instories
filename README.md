@@ -54,6 +54,11 @@ Help:
 
 ```
 
+## NOTE
+
+- Downloaded content gets saved under __`instagram/username_story/`__ folder in your __`home directory`__. That's the default path!
+So, you just basically need to check __`/home/user/instagram/`__ folder after downloading the stories.
+
 ## Related
 
 - __[`instory`](https://github.com/CodeDotJS/instory)__ `:`
