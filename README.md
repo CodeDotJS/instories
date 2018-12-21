@@ -39,7 +39,7 @@ $ sudo npm install --global instories
 ## Usage
 
 ```
-Usage: instory <username> [command]
+Usage: instories <username> [command]
 
 Command:
  -a, --all          Download all the stories
